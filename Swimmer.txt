@@ -1,0 +1,6 @@
+01 Swimmer01 15 VIC
+02 Swimmer02 16 NT
+03 Swimmer03 17 SA
+04 Swimmer04 28 TAS
+05 Swimmer05 29 WA
+06 Swimmer06 30 VIC

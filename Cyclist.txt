@@ -1,0 +1,6 @@
+11 Cyclist01 13 SA
+12 Cyclist02 22 VIC
+13 Cyclist03 15 WA
+14 Cyclist04 25 TAS
+15 Cyclist05 85 VIC
+16 Cyclist06 65 WA

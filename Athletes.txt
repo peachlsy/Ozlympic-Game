@@ -1,0 +1,22 @@
+01 Swimmer01 15 VIC
+02 Swimmer02 16 NT
+03 Swimmer03 17 SA
+04 Swimmer04 28 TAS
+05 Swimmer05 29 WA
+06 Swimmer06 30 VIC
+11 Cyclist01 13 SA
+12 Cyclist02 22 VIC 14
+13 Cyclist03 15 WA 14
+14 Cyclist04 25 TAS 14
+15 Cyclist05 85 VIC 14
+16 Cyclist06 65 WA 14
+21 Sprinter01 34 VIC 12
+22 Sprinter02 54 SA 12
+23 Sprinter03 76 TAS 12
+24 Sprinter04 87 NT 12
+25 Sprinter05 98 SA 12
+26 Sprinter06 45 VIC 12
+91 SuperAthlete01 120 VIC 100
+92 SuperAthlete02 140 TAS 100
+93 SuperAthlete03 140 SA 100
+94 SuperAthlete04 140 NT 100

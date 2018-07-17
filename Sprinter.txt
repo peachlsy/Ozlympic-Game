@@ -1,0 +1,6 @@
+21 Sprinter01 34 VIC
+22 Sprinter02 54 SA
+23 Sprinter03 76 TAS
+24 Sprinter04 87 NT
+25 Sprinter05 98 SA
+26 Sprinter06 45 VIC
